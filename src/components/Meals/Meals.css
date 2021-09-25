@@ -1,0 +1,33 @@
+.search-box {
+  background: #006d77;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+}
+.search-field {
+  display: block;
+  width: 70%;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+.search-field:focus {
+  outline: none;
+}
+
+.meals-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-gap: 30px;
+}
+
+.meal-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+  padding: 30px;
+  border-right: 1px solid #ddd;
+}
+
+.meal-cart {
+  padding-left: 10px;
+}

@@ -1,0 +1,16 @@
+.cart {
+  padding: 20px;
+}
+.cart h3 {
+  text-align: center;
+  font-size: 20px;
+  color: #006d77;
+  margin: 20px 0;
+}
+.order-melas {
+  margin-top: 20px;
+}
+.meal-list {
+  margin-top: 20px;
+  padding: 0;
+}

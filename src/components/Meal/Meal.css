@@ -1,0 +1,33 @@
+.meal {
+  background: rgba(255, 221, 210, 0.596);
+  padding: 20px;
+  border-radius: 30px;
+}
+.meal img {
+  width: 100%;
+  border-radius: 20px;
+}
+.meal h3 {
+  color: #006d77;
+  font-size: 24px;
+  margin: 10px 0;
+}
+.meal p {
+  color: #2b2d42;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.meal-btn {
+  background: #006d77;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 30px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.icon {
+  margin-right: 10px;
+}

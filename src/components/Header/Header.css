@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #edf6f9;
+  padding: 5px 50px;
+}
+.nav-bar {
+}
+.nav-bar a {
+  text-decoration: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  display: inline-block;
+  color: #006d77;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.nav-bar a:hover {
+  background: #ffddd2;
+  color: #006d77;
+}
